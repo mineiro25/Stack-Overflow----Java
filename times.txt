@@ -1,0 +1,118 @@
+LOAD -> 14957 ms
+Query 1: -> 0 ms
+Query 2 -> 144 ms
+Query 3 -> 513 ms
+Query 4 -> 301 ms
+Query 5 -> 41 ms
+Query6 -> 1454 ms
+Query 7 -> 368 ms
+Query 8 -> 50 ms
+Query9 -> 61 ms
+Query 10 -> 30 ms
+Query 11 -> 282 ms
+CLEAN -> 0 ms
+LOAD -> 145 ms
+LOAD -> 26750 ms
+Query 1: -> 0 ms
+Query 2 -> 231 ms
+Query 3 -> 1828 ms
+Query 4 -> 367 ms
+Query 5 -> 31 ms
+Query6 -> 203 ms
+Query 7 -> 349 ms
+Query 8 -> 41 ms
+Query9 -> 63 ms
+Query 10 -> 42 ms
+Query 11 -> 413 ms
+CLEAN -> 0 ms
+LOAD -> 26769 ms
+Query 1: -> 5 ms
+Query 2 -> 237 ms
+Query 3 -> 1824 ms
+Query 4 -> 333 ms
+Query 5 -> 46 ms
+Query6 -> 237 ms
+Query 7 -> 466 ms
+Query 8 -> 61 ms
+Query9 -> 90 ms
+Query 10 -> 37 ms
+Query 11 -> 502 ms
+CLEAN -> 0 ms
+LOAD -> 19082 ms
+Query 1: -> 1 ms
+Query 2 -> 207 ms
+Query 3 -> 568 ms
+Query 4 -> 451 ms
+Query 5 -> 52 ms
+Query6 -> 218 ms
+Query 7 -> 333 ms
+Query 8 -> 52 ms
+Query9 -> 69 ms
+Query 10 -> 31 ms
+Query 11 -> 316 ms
+CLEAN -> 0 ms
+LOAD -> 17050 ms
+Query 1: -> 1 ms
+Query 2 -> 174 ms
+Query 3 -> 540 ms
+Query 4 -> 1102 ms
+Query 5 -> 33 ms
+Query6 -> 173 ms
+Query 7 -> 286 ms
+Query 8 -> 40 ms
+Query9 -> 54 ms
+Query 10 -> 24 ms
+Query 11 -> 295 ms
+CLEAN -> 0 ms
+LOAD -> 17796 ms
+Query 1: -> 0 ms
+Query 2 -> 183 ms
+Query 3 -> 456 ms
+Query 4 -> 471 ms
+Query 5 -> 40 ms
+Query6 -> 199 ms
+Query 7 -> 341 ms
+Query 8 -> 45 ms
+Query9 -> 59 ms
+Query 10 -> 26 ms
+Query 11 -> 344 ms
+CLEAN -> 0 ms
+LOAD -> 16483 ms
+Query 1: -> 1 ms
+Query 2 -> 64 ms
+Query 3 -> 410 ms
+Query 4 -> 398 ms
+Query 5 -> 34 ms
+Query6 -> 213 ms
+Query 7 -> 331 ms
+Query 8 -> 52 ms
+Query9 -> 65 ms
+Query 10 -> 29 ms
+Query 11 -> 351 ms
+CLEAN -> 0 ms
+LOAD -> 17820 ms
+Query 1: -> 1 ms
+Query 2 -> 84 ms
+Query 3 -> 497 ms
+Query 4 -> 520 ms
+Query 5 -> 45 ms
+Query6 -> 274 ms
+Query 7 -> 358 ms
+Query 8 -> 45 ms
+Query9 -> 91 ms
+Query 10 -> 40 ms
+Query 11 -> 459 ms
+CLEAN -> 0 ms
+LOAD -> 18529 ms
+Query 1: -> 1 ms
+Query 2 -> 96 ms
+Query 3 -> 629 ms
+Query 4 -> 1136 ms
+Query 5 -> 45 ms
+Query6 -> 190 ms
+Query 7 -> 304 ms
+Query 8 -> 48 ms
+Query9 -> 65 ms
+Query 10 -> 27 ms
+Query 11 -> 345 ms
+CLEAN -> 0 ms
